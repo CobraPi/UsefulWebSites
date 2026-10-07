@@ -46,6 +46,7 @@
 - [ExtractPDF](https://www.extractpdf.com/zh.html) 从PDF文件中提取图像，文本和字体
 - [PDF Joiner](https://pdfjoiner.com/zh/) 在线合并PDF文档
 - [To PDF](https://topdf.com/zh/) 在线PDF转换
+- [Practical Web Tools](https://practicalwebtools.com/) 1,400+免费浏览器工具：PDF编辑/转换、图片/音频格式转换、200+计算器，全部客户端处理，无需上传
 
 ### 图片类
    
